@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
-        <RootNamespace>BeeCrowdBeginner._1000</RootNamespace>
+        <RootNamespace>Beginner._1000</RootNamespace>
     </PropertyGroup>
 
 </Project>

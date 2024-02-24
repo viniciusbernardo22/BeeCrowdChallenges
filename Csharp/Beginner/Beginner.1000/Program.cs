@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BeeCrowdBeginner._1000
+namespace Beginner._1000
 {
     class Program
     {
