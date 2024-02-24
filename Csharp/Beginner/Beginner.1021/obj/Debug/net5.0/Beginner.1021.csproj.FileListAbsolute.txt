@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\Beginner.1021.exe
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\Beginner.1021.deps.json
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\Beginner.1021.runtimeconfig.json
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\Beginner.1021.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\Beginner.1021.dll
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\ref\Beginner.1021.dll
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\bin\Debug\net5.0\Beginner.1021.pdb
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.dll
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\ref\Beginner.1021.dll
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.pdb
+C:\Users\Usuario\Desktop\Courses\Beecrowd\Csharp\Beginner\Beginner.1021\obj\Debug\net5.0\Beginner.1021.genruntimeconfig.cache
