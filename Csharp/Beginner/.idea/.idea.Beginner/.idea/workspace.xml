@@ -26,6 +26,8 @@
     <projectFile>Beginner.1035/Beginner.1035.csproj</projectFile>
     <projectFile>Beginner.1036/Beginner.1036.csproj</projectFile>
     <projectFile>Beginner.1037/Beginner.1037.csproj</projectFile>
+    <projectFile>Beginner.1038/Beginner.1038.csproj</projectFile>
+    <projectFile>Beginner.1040/Beginner.1040.csproj</projectFile>
     <projectFile>Beginner.2006/Beginner.2006.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -73,7 +75,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Beginner.1037">
+  <component name="RunManager" selected=".NET Project.Beginner.1040">
     <configuration name="Beginner.1000" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -524,6 +526,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Beginner.1038" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Beginner.1038/Beginner.1038.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Beginner.1040" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Beginner.1040/Beginner.1040.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Beginner.2006" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -553,7 +591,7 @@
       <updated>1708786449871</updated>
       <workItem from="1708786453654" duration="1866000" />
       <workItem from="1708790574062" duration="1694000" />
-      <workItem from="1708803897899" duration="6075000" />
+      <workItem from="1708803897899" duration="9267000" />
     </task>
     <servers />
   </component>
