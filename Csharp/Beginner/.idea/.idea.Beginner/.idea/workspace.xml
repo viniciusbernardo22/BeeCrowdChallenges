@@ -23,6 +23,9 @@
     <projectFile>Beginner.1019/Beginner.1019.csproj</projectFile>
     <projectFile>Beginner.1020/Beginner.1020.csproj</projectFile>
     <projectFile>Beginner.1021/Beginner.1021.csproj</projectFile>
+    <projectFile>Beginner.1035/Beginner.1035.csproj</projectFile>
+    <projectFile>Beginner.1036/Beginner.1036.csproj</projectFile>
+    <projectFile>Beginner.1037/Beginner.1037.csproj</projectFile>
     <projectFile>Beginner.2006/Beginner.2006.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
@@ -30,31 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf82d006-01a7-43ef-99f9-c7ba174c664f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/.idea/.idea.Ad-Hoc/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/.idea/.idea.Ad-Hoc/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/.idea/.idea.Ad-Hoc/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/.idea/.idea.Ad-Hoc/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/Ad-Hoc.1129.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Ad-Hoc.1129.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Ad-Hoc.1129.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Ad-Hoc.1129.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Debug/net5.0/Ad-Hoc.1129.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Debug/net5.0/Ad-Hoc.1129.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Debug/net5.0/Ad-Hoc.1129.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Debug/net5.0/Ad-Hoc.1129.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/Debug/net5.0/Ad-Hoc.1129.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.1129/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/Ad-Hoc.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ad-Hoc/Ad-Hoc/global.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Beginner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Beginner/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner.1012/obj/Debug/net5.0/Beginner.1012.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner.1012/obj/Debug/net5.0/Beginner.1012.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Beginner.2006/obj/Debug/net5.0/Beginner.2006.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner.2006/obj/Debug/net5.0/Beginner.2006.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Beginner.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +73,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Beginner.1021">
+  <component name="RunManager" selected=".NET Project.Beginner.1037">
     <configuration name="Beginner.1000" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -491,6 +470,60 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Beginner.1035" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Beginner.1035/Beginner.1035.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Beginner.1036" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Beginner.1036/Beginner.1036.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Beginner.1037" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Beginner.1037/Beginner.1037.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Beginner.2006" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -520,7 +553,7 @@
       <updated>1708786449871</updated>
       <workItem from="1708786453654" duration="1866000" />
       <workItem from="1708790574062" duration="1694000" />
-      <workItem from="1708803897899" duration="3900000" />
+      <workItem from="1708803897899" duration="6075000" />
     </task>
     <servers />
   </component>
