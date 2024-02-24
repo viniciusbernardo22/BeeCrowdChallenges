@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeCrowdBeginner.1000", "BeeCrowdBeginner.1000\BeeCrowdBeginner.1000.csproj", "{6EFA2306-40E1-461A-BFF7-2A95A02820F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeCrowdBeginner.1000", "BeeCrowdBeginner.1000.csproj", "{AC39BA6D-BC68-445A-A8D1-7108A097F8DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6EFA2306-40E1-461A-BFF7-2A95A02820F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6EFA2306-40E1-461A-BFF7-2A95A02820F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6EFA2306-40E1-461A-BFF7-2A95A02820F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6EFA2306-40E1-461A-BFF7-2A95A02820F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC39BA6D-BC68-445A-A8D1-7108A097F8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39BA6D-BC68-445A-A8D1-7108A097F8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC39BA6D-BC68-445A-A8D1-7108A097F8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC39BA6D-BC68-445A-A8D1-7108A097F8DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
